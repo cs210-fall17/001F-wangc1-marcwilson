@@ -12,7 +12,12 @@ public class Hello {
         
         // Red Leader should add a print statement that says "Lock S-foils in attack position." 
         // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
+<<<<<<< HEAD
         System.out.println("Stabilize your rear deflectors... Watch for enemy fighters.")
+=======
+	System.out.println(“Lock S-foils in attack position.”)
+
+>>>>>>> a83ae1695c6f56b569c8b361b6dea3e296594505
     }
 
     public static void goldLeader() {
